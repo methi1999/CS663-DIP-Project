@@ -3,4 +3,4 @@ Inspired by [this paper](https://www.microsoft.com/en-us/research/wp-content/upl
 
 We also implemented a simple Shot Detection algorithm to allow multiple scenes in a single video.
 
-An example pair can be found here: [input](https://methi1999.github.io/assets/videos/cs663/combined_original.mp4)) and [output](https://methi1999.github.io/assets/videos/cs663/combined_meanshift.mp4)
+An example input-output pair can be found here: [input](https://methi1999.github.io/assets/videos/cs663/combined_original.mp4) and [output](https://methi1999.github.io/assets/videos/cs663/combined_meanshift.mp4)
